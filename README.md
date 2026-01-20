@@ -23,6 +23,19 @@ You can also use TOPSIS through a **web-based interface** (no installation requi
 
 ---
 
+
+---
+
+## 📦 PyPI Package
+
+The Python package is officially published on **PyPI**:
+
+👉 **PyPI Link:**  
+https://pypi.org/project/Topsis-AryanSaini-102303666/1.0.0/
+
+---
+
+
 <br>
 
 ## ✅ **Installation**
